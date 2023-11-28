@@ -30,3 +30,6 @@ Endpoint: /divide
 Method: POST
 Input: JSON object with two numbers { "num1": 15, "num2": 3 }
 Output: JSON object with the result { "result": 5 }
+
+##POSTMAN LINK
+https://api.postman.com/collections/15459708-6572bf0c-fc76-4d4f-aa95-5dc70427f4e4?access_key=PMAT-01HGBS3DXHERMTMR0G9A505VKY
